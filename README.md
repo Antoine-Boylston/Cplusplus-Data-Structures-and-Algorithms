@@ -16,7 +16,7 @@ This course had two major projects set in the context of a scenario: I was taske
 
 To solve the problem, I first created detailed pseudocode using three different data structures: Vector, Hash Table, and Binary Search Tree (BST). I explored how each could be used to store, organize, and retrieve course data.
 
-After writing the pseudocode, I analyzed the performance of each structure in terms of search, insertion, and traversal time. This helped me choose the most efficient structure, a Binary Search Tree—for implementing the final solution. Understanding how data structures influence performance was essential to building a fast and responsive program.
+After writing the pseudocode, I analyzed the performance of each structure in terms of search, insertion, and traversal time. This helped me choose the most efficient structure. Understanding how data structures influence performance was essential to building a fast and responsive program.
 
 🛠️ How did you overcome any roadblocks during the project?
 
